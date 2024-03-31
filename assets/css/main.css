@@ -1,6 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 @import url("https://jeffreymaniac.github.io/OpenDyslexic-font-for-css/opendyslexic.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*
 	Strata by HTML5 UP
@@ -23,7 +24,8 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: OpenDyslexic;
+	font-family: Montserrat
+	;
 	/* Old font "inherit" */
 	vertical-align: baseline;}
 
